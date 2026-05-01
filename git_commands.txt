@@ -1,0 +1,18 @@
+1.mkdir is used to make directory
+2.cd is used to change directory
+3.touch is used to make a new file
+4.cat is used to write content to the file and save using Ctrl+D
+5.git init is used to convert folder on local machine to git repository
+6.add . is used to stage all new and changed files in current directory
+7.git add <>[Dfilename> is used stage a specific file
+8.git commit is used to commit change and -m is used[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D/save[C change[C[C[C[C[C[C[C and -m is used to fdisplay a short description message for particular commit.
+9.git branch feature is a new branch for specific feature we use this command to generate a branch pointer only.
+
+10.git checkout is used to switch to a particular branch say main or feature or any other branch created.
+11.git merge <branch> is used to combine history and changes of one branch to other
+12.git log is used to accesshistory of repository --oneline [D[D[D[D[D[D[D[D[D[D,[C[C[C[C[C[C[C[C is usedcondense the commit to a single line,--graph a text based tree on left side of terminal-showing exactly where each branch splits and where they merge.
+13.Not a command but .gitignore is an imp file which tells which file to ignore and which not in a project
+14.use of git reset --soft HEAD~1 to undo last change.
+15.git status is used to chech current status of repository.
+16.git remote add origin <url of project on github>  is used to connect local repository to remote repository.
+17.use of git push -u origin main used to upload commits of local repository to remote repository.
